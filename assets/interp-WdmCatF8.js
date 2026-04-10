@@ -1,4 +1,4 @@
-import{D as e,j as t,k as n,t as r}from"./jsx-runtime-CKB6wEmR.js";import{i}from"./dist-zKs-D_7z.js";import{t as a}from"./useInterpreter-pfy4MR7m.js";var o=t(n(),1),s=r(),c=`a1 = arr[1, 10, 5, 6, 4, 7, 19]
+import{D as e,j as t,k as n,t as r}from"./jsx-runtime-CKB6wEmR.js";import{i}from"./dist-zKs-D_7z.js";import{t as a}from"./useInterpreter-CDFt8beQ.js";var o=t(n(),1),s=r(),c=`a1 = arr[1, 10, 5, 6, 4, 7, 19]
 key = 4
 
 fun Linear_Search(a, k):
